@@ -1,0 +1,10 @@
+{
+  "name": "sample_component",
+  "version": "0.0.0",
+  "description": "sample-component",
+  "main": "server.js",
+  "author": {
+    "name": "Samuel_Tjokrosoesilo",
+    "email": ""
+  }
+}

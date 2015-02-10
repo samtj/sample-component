@@ -4,5 +4,17 @@
   "main": "dragon-drop.js",
   "dependencies": {
     "angular": "~1.0.5"
-  }
+  },
+  "homepage": "https://github.com/samtj/sample-component",
+  "authors": [
+    "Samuel T <samtjok@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
