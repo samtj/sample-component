@@ -1,6 +1,6 @@
 {
   "name": "angular-dragon-drop",
-  "version": "0.3.3",
+  "version": "0.3.6",
   "main": "dragon-drop.js",
   "dependencies": {
     "angular": "~1.0.5"

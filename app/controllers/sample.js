@@ -7,10 +7,10 @@
  * # AddedCtrl
  * Controller of the mytodoApp
  */
-angular.module('SampleModule',['btford.dragon-drop']).
+angular.module('sampleModule',['btford.dragon-drop']).
     controller('SampleCtrl', function ($scope) {
         $scope.things = ['one', 'two'];
-        $scope.otherThings = [];
+        $scope.otherThings = ['three'];
     });
 /*
     angular.module('mytodoApp')
