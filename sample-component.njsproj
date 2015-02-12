@@ -31,8 +31,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="app\controllers\dragon-drop.js" />
+    <Compile Include="app\controllers\sample.js" />
     <Compile Include="server.js" />
     <Content Include="app\views\example.html" />
+    <Content Include="app\views\sample.html" />
     <Content Include="bower.json" />
     <Content Include="package.json" />
     <Content Include="README.md" />
