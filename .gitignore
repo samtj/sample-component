@@ -1,0 +1,12 @@
+node_modules
+dist
+.tmp
+.sass-cache
+.dat
+bower_components
+obj
+.tmp
+*.dat
+*.njsproj
+*.sln
+*.suo
